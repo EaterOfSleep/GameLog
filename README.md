@@ -2,9 +2,9 @@
 
 
 
-| Title       | Platform | Status   |
-| ----------- | -------- | -------- |
-| [Daymare: 1998](https://github.com/EaterOfSleep/GameLog/tree/main/Daymare%201998/Gallery) | PC | ✅ |
+| Title       | Platform | Status   | Date |
+| ----------- | -------- | -------- | ---- |
+| [Daymare: 1998](/Daymare%201998) | PC | ✅ | 2022/02/19
 | Nioh 2 | PC | ⌛ |
 | Placeholder | ######## | ######## |
 | Placeholder | ######## | ######## |
